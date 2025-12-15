@@ -1,6 +1,7 @@
-plugins {
+﻿plugins {
     id 'java'
     id 'application'
+    id 'jacoco'  # Добавляем плагин jacoco
 }
 
 group = 'ru.netology'
